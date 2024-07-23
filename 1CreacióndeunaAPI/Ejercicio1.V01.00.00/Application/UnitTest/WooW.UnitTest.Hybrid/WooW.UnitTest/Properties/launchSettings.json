@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WooW.UnitTest": {
+      "commandName": "Project",
+      "commandLineArgs": "Socket DBHandHeld.sqlite https://localhost:5101 1 employee@email.com p FRO941024IHA 2023 INDU 0 0 0 0 0 \"\" \"\" \"\" \"\" \"\""
+    }
+  }
+}

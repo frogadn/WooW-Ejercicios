@@ -1,0 +1,108 @@
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.deps.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.en.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.en.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.en.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.en.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.en.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.en.resources
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.GenerateResource.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.sourcelink.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\refint\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\ref\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.deps.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.en.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.en.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.en.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.en.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.en.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.en.resources
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.GenerateResource.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.sourcelink.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\refint\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\ref\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.deps.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.en.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.en.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.en.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.en.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.en.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.en.resources
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.GenerateResource.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.sourcelink.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\refint\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\ref\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.deps.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Comments.WooW_Comment.en.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Labels.WooW_Label.en.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.Messages.WooW_Message.en.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelComment.WooW_ModelComment.en.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelData.WooW_ModelData.en.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.ModelLabel.WooW_ModelLabel.en.resources
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.GenerateResource.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.sourcelink.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\refint\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\Resources\obj\Debug\net8.0\ref\WooW.Resources.dll
