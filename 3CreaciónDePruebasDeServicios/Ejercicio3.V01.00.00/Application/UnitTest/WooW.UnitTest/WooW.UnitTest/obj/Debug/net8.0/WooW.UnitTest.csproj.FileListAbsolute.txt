@@ -1,0 +1,15 @@
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.csproj.AssemblyReference.cache
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.AssemblyInfoInputs.cache
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.AssemblyInfo.cs
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.csproj.CoreCompileInputs.cache
+C:\Frog\WooW.SB\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.csproj.AssemblyReference.cache
+C:\Frog\WooW.SB\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW.SB\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.AssemblyInfoInputs.cache
+C:\Frog\WooW.SB\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.AssemblyInfo.cs
+C:\Frog\WooW.SB\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.csproj.CoreCompileInputs.cache
+C:\Proyectos\veXMAX\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.csproj.AssemblyReference.cache
+C:\Proyectos\veXMAX\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\veXMAX\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.AssemblyInfoInputs.cache
+C:\Proyectos\veXMAX\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.AssemblyInfo.cs
+C:\Proyectos\veXMAX\vexMAX_ERP.V01.01.01\Application\UnitTest\WooW.UnitTest\WooW.UnitTest\obj\Debug\net8.0\WooW.UnitTest.csproj.CoreCompileInputs.cache
