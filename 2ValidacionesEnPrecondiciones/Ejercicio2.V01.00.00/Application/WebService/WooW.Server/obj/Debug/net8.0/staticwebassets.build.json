@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dT8maBM09wTMdcfcowFykPOjVejiFT1mk1BxywWzm2k=",
+  "Source": "WooW.Server",
+  "BasePath": "_content/WooW.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

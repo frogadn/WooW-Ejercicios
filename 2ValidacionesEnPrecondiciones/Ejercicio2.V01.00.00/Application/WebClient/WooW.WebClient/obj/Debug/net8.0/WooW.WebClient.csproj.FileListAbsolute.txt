@@ -1,0 +1,85 @@
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.deps.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.sourcelink.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.Web.1DACB1E5.Up2Date
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\refint\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\ref\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.deps.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.sourcelink.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.Web.1DACB1E5.Up2Date
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\refint\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\ref\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.deps.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.sourcelink.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.Web.1DACB1E5.Up2Date
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\refint\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\ref\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.deps.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.sourcelink.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.Web.1DACB1E5.Up2Date
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\refint\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\ref\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.deps.json
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.sourcelink.json
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.Web.1DACB1E5.Up2Date
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\refint\WooW.WebClient.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\WooW.WebClient.pdb
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebClient\WooW.WebClient\obj\Debug\net8.0\ref\WooW.WebClient.dll
