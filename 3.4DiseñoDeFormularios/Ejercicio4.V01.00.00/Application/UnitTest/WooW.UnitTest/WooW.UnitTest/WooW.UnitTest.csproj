@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WooW.CFDI" Version="2.9.0" />
+    <PackageReference Include="WooW.Core.Common" Version="2.9.0" />
+    <PackageReference Include="WooW.Socket" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WooW.Resources">
+      <HintPath>bin\Debug\net6.0\WooW.Resources.dll</HintPath>
+    </Reference>
+    <Reference Include="WooW.WebClient">
+      <HintPath>bin\Debug\net6.0\WooW.WebClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

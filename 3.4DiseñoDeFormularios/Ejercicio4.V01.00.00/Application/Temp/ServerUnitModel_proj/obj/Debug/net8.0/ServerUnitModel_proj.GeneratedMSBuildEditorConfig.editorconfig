@@ -1,0 +1,75 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ServerUnitModel_proj
+build_property.RootNamespace = ServerUnitModel_proj
+build_property.ProjectDir = C:\Frog\WooW-Ejercicios\3.4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\Temp\ServerUnitModel_proj\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Frog\WooW-Ejercicios\3.4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\Temp\ServerUnitModel_proj
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/GridLists/ServerUnitModelGridList.razor]
+build_metadata.AdditionalFiles.TargetPath = R3JpZExpc3RzXFNlcnZlclVuaXRNb2RlbEdyaWRMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Pages/ServerUnitModelLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmVyVW5pdE1vZGVsTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Pages/WoLog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29Mb2cucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Pages/WoUrnRedirection.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29Vcm5SZWRpcmVjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Shared/WoHeaderLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdvSGVhZGVyTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Shared/WoHeaderSubItems.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdvSGVhZGVyU3ViSXRlbXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Shared/WoLoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFdvTG9naW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Themes/WoThemeSwitcher.razor]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzXFdvVGhlbWVTd2l0Y2hlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ftuull4zk1
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Frog/WooW-Ejercicios/3.4DiseñoDeFormularios/Ejercicio4.V01.00.00/Application/Temp/ServerUnitModel_proj/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

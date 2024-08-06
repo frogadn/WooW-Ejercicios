@@ -1,0 +1,76 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFrameworks>net8.0</TargetFrameworks>
+	  <LangVersion>10</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);WEBCLIENT</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);WEBCLIENT</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);WEBCLIENT</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);WEBCLIENT</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Script\**" />
+    <EmbeddedResource Remove="Script\**" />
+    <None Remove="Script\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTO\" />
+	<Folder Include="Interface\" />
+	<Folder Include="ClientServices\" />
+	<Folder Include="Model\" />
+	<Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<Compile Include="*.cs" />
+	<Compile Include="..\..\Common\Miscellaneous\Rol.cs" Link="Miscellaneous\Rol.cs" />
+	<Compile Include="..\..\Common\Miscellaneous\Permiso.cs" Link="Miscellaneous\Permiso.cs" />
+	<Compile Include="..\..\Common\Model\Empleado.cs" Link="Model\Empleado.cs" />
+	<Compile Include="..\..\Common\Model\TipoDeEmpleado.cs" Link="Model\TipoDeEmpleado.cs" />
+	<Compile Include="..\..\Common\DTO\EmpleadoDTO.cs" Link="DTO\EmpleadoDTO.cs" />
+	<Compile Include="..\..\Common\DTO\TipoDeEmpleadoDTO.cs" Link="DTO\TipoDeEmpleadoDTO.cs" />
+	<Compile Include="..\..\Common\ClientServices\Empleado.cs" Link="ClientServices\Empleado.cs" />
+	<Compile Include="..\..\Common\ClientServices\TipoDeEmpleado.cs" Link="ClientServices\TipoDeEmpleado.cs" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WooW.Core.Common" Version="2.9.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Resources\WooW.Resources.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="WooW.Model.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Model.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="WooW.Model.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Model.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

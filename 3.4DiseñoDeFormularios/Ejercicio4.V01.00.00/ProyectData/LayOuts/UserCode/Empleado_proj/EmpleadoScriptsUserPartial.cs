@@ -1,0 +1,8 @@
+
+
+        public partial class EmpleadoScriptsUser
+        {
+
+        }
+
+
