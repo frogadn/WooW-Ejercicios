@@ -47,7 +47,8 @@ namespace WooW.Model
 			}
 
 			// Validar que el número de teléfono sea válido
-			var phoneRegex = @"^\d{10}$"; if(!System.Text.RegularExpressions.Regex.IsMatch(oEmpleado.Telefono, phoneRegex))
+			var phoneRegex = @"^(\d{10}|\(\d{3}\) \d{3}-\d{4})$";
+			if(!System.Text.RegularExpressions.Regex.IsMatch(oEmpleado.Telefono, phoneRegex))
 			{
 				throw new Exception("El número de teléfono no es válido.");
 			}
