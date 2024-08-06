@@ -1,0 +1,133 @@
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\1 Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\1-Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\1Creación de una API\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\1CreacióndeunaAPI\Ejercicio1.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\2ValidacionesEnPrecondiciones\Ejercicio2.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\3CreaciónDePruebasDeServicios\Ejercicio3.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.deps.json
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.runtimeconfig.json
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.dll
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\WooW.Resources.pdb
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\bin\Debug\net8.0\en\WooW.Resources.resources.dll
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.AssemblyReference.cache
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfoInputs.cache
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.AssemblyInfo.cs
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.csproj.CoreCompileInputs.cache
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.sourcelink.json
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.Web.E4564746.Up2Date
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\refint\WooW.WebService.dll
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.pdb
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\WooW.WebService.genruntimeconfig.cache
+C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\Application\WebService\WooW.WebService\obj\Debug\net8.0\ref\WooW.WebService.dll

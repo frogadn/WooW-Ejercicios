@@ -1,0 +1,5 @@
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest.Hybrid\WooW.UnitTest\obj\Debug\net6.0\WooW.UnitTest.csproj.AssemblyReference.cache
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest.Hybrid\WooW.UnitTest\obj\Debug\net6.0\WooW.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest.Hybrid\WooW.UnitTest\obj\Debug\net6.0\WooW.UnitTest.AssemblyInfoInputs.cache
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest.Hybrid\WooW.UnitTest\obj\Debug\net6.0\WooW.UnitTest.AssemblyInfo.cs
+C:\Frog\WooW.SB\Proyecto\Application\UnitTest\WooW.UnitTest.Hybrid\WooW.UnitTest\obj\Debug\net6.0\WooW.UnitTest.csproj.CoreCompileInputs.cache
