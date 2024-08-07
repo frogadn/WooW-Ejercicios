@@ -1,0 +1,16 @@
+
+/* Overriding de clases bootstrap */
+.form-control:disabled, .form-control[readonly] {
+    background-color: white;
+    opacity: 1;
+    /*color: rgb(33, 37, 41) !important;*/
+}
+
+.size-alert {
+    width: 95%;
+    float: left;
+}
+
+.size-btn-close {
+    float: right !important;
+}

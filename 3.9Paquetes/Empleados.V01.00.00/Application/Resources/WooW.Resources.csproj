@@ -1,0 +1,229 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net8.0</TargetFrameworks>
+    <LangVersion>10</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Comments\WooW_Comment.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW_Comment.resx</DependentUpon>
+    </Compile>
+    <Compile Update="en-US\WooW.Label.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Label.resx</DependentUpon>
+    </Compile>
+    <Compile Update="en-US\WooW.Message.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Message.resx</DependentUpon>
+    </Compile>
+    <Compile Update="en-US\WooW.Model.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Model.resx</DependentUpon>
+    </Compile>
+    <Compile Update="en_US\WooW.Label.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Label.resx</DependentUpon>
+    </Compile>
+    <Compile Update="en_US\WooW.Message.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Message.resx</DependentUpon>
+    </Compile>
+    <Compile Update="en_US\WooW.Model.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Model.resx</DependentUpon>
+    </Compile>
+    <Compile Update="es-MX\WooW.Label.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Label.resx</DependentUpon>
+    </Compile>
+    <Compile Update="es-MX\WooW.Message.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Message.resx</DependentUpon>
+    </Compile>
+    <Compile Update="es-MX\WooW.Model.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Model.resx</DependentUpon>
+    </Compile>
+    <Compile Update="es_MX\WooW.Label.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Label.resx</DependentUpon>
+    </Compile>
+    <Compile Update="es_MX\WooW.Message.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Message.resx</DependentUpon>
+    </Compile>
+    <Compile Update="es_MX\WooW.Model.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Model.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Labels\WooW.Label.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Label.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Labels\WooW_Label.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW_Label.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Messages\WooW.Message.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Message.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Messages\WooW_Message.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW_Message.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ModelComment\WooW_ModelComment.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW_ModelComment.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ModelData\WooW.ModelData.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.ModelData.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ModelData\WooW_ModelData.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW_ModelData.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ModelLabel\WooW.ModelLabel.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.ModelLabel.resx</DependentUpon>
+    </Compile>
+    <Compile Update="ModelLabel\WooW_ModelLabel.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW_ModelLabel.resx</DependentUpon>
+    </Compile>
+    <Compile Update="WooW.Model.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>WooW.Model.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Comments\WooW_Comment.en.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Comments\WooW_Comment.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW_Comment.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="en-US\WooW.Label.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Label.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="en-US\WooW.Message.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Message.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="en-US\WooW.Model.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Model.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="en_US\WooW.Label.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Label.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="en_US\WooW.Message.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Message.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="en_US\WooW.Model.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Model.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="es-MX\WooW.Label.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Label.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="es-MX\WooW.Message.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Message.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="es-MX\WooW.Model.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Model.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="es_MX\WooW.Label.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Label.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="es_MX\WooW.Message.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Message.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="es_MX\WooW.Model.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Model.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Labels\WooW.Label.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Label.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Labels\WooW_Label.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW_Label.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Messages\WooW.Message.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Message.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Messages\WooW_Message.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW_Message.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ModelComment\WooW_ModelComment.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW_ModelComment.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ModelData\WooW.ModelData.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.ModelData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ModelData\WooW_ModelData.en.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ModelData\WooW_ModelData.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW_ModelData.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ModelLabel\WooW.ModelLabel.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.ModelLabel.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="ModelLabel\WooW_ModelLabel.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW_ModelLabel.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="WooW.Model.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>WooW.Model.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFrameworks>net8.0</TargetFrameworks>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <LangVersion>12</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|netstandard2.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants)TRACE;SERVER</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|netstandard2.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants)TRACE;SERVER</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net6.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);TRACE;SERVER;WEBSERVICE</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net6.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);TRACE;SERVER;WEBSERVICE</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net48|AnyCPU'">
+    <DefineConstants>$(DefineConstants)TRACE;SERVER</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net48|AnyCPU'">
+    <DefineConstants>$(DefineConstants)TRACE;SERVER</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net8.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);WEBSERVICE;SERVER</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net8.0|AnyCPU'">
+    <DefineConstants>$(DefineConstants);WEBSERVICE;SERVER</DefineConstants>
+  </PropertyGroup>
+  
+<ItemGroup>	
+  <Folder Include="ClientServices" />
+    <Folder Include="ModelCreation" />
+    <Folder Include="PreConditions" />
+    <Folder Include="PostConditions" />
+    <Folder Include="Interface" />	
+    <Folder Include="Scripts" />
+    <Folder Include="Model" />	
+    <Folder Include="DTO" />
+  </ItemGroup>
+
+  <ItemGroup>
+	<Compile Include="*.cs" />
+	<Compile Include="..\..\Common\Miscellaneous\Rol.cs" Link="Miscellaneous\Rol.cs" />
+	<Compile Include="..\..\Common\Miscellaneous\Permiso.cs" Link="Miscellaneous\Permiso.cs" />
+	<Compile Include="..\..\Common\Model\Empleado.cs" Link="Model\Empleado.cs" />
+	<Compile Include="..\..\Common\Model\TipoDeEmpleado.cs" Link="Model\TipoDeEmpleado.cs" />
+	<Compile Include="..\..\Common\DTO\EmpleadoDTO.cs" Link="DTO\EmpleadoDTO.cs" />
+	<Compile Include="..\..\Common\DTO\TipoDeEmpleadoDTO.cs" Link="DTO\TipoDeEmpleadoDTO.cs" />
+	<Compile Include="..\..\Common\ServerServices\Empleado.cs" Link="ServerServices\Empleado.cs" />
+	<Compile Include="..\..\Common\ServerServices\TipoDeEmpleado.cs" Link="ServerServices\TipoDeEmpleado.cs" />
+	<Compile Include="..\..\Common\ClientServices\Empleado.cs" Link="ClientServices\Empleado.cs" />
+	<Compile Include="..\..\Common\ClientServices\TipoDeEmpleado.cs" Link="ClientServices\TipoDeEmpleado.cs" />
+	<Compile Include="C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\ProyectData\Logic\ModelCreation\EmpleadoModelCreation.cs" Link="ModelCreation\EmpleadoModelCreation.cs" />
+	<Compile Include="C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\ProyectData\Logic\PreConditions\EmpleadoPreConditions.cs" Link="PreConditions\EmpleadoPreConditions.cs" />
+	<Compile Include="C:\Frog\WooW-Ejercicios\4DiseñoDeFormularios\Ejercicio4.V01.00.00\ProyectData\Logic\PostConditions\EmpleadoPostConditions.cs" Link="PostConditions\EmpleadoPostConditions.cs" />
+
+</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WooW.CFDI" Version="2.9.0" />
+    <PackageReference Include="WooW.Core.Server" Version="2.9.0" />
+  </ItemGroup>	
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Resources\WooW.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

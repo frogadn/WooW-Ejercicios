@@ -1,0 +1,78 @@
+@*///------------------------------------------------------------------------------------------------------------------
+/// Código autogenerado por la template WoTemplateGenericClass en el path WooW.SB\BlazorGenerator\BlazorTemplates\CommonTemplates\Slaves\WoTemplateSlaveRazorBlazor.tt
+/// Genera código consistente con la version de la prueba de concepto a dia 05-10-2023 En Blazor Wasm y Server
+/// Este código es auto generado y su modificación puede causar que el código no se comporte como deveria ademas de
+/// que se perderan los cambios realizados en el código al momento de la generación.
+///------------------------------------------------------------------------------------------------------------------*@
+
+@*Url de acceso*@
+@page "/SYS/List/TipoDeEmpleado"
+
+
+@*Atributo de autorización (solo se puede accesar si esta autenticado)*@
+@attribute [Authorize]
+
+@*Herencia de la clase base de componentes (Permite gestionar la autenticación y el cliente)*@
+@inherits AWoComponentBase
+
+@*Injection de la dependencia del localizer (recuperación de etiquetas y formatos en función de la cultura)*@
+@inject IStringLocalizer<App> Localizer
+
+@* Interop con JavaScript *@
+@inject IJSRuntime JSRuntime
+
+
+
+    @*Este código fue generado por el fichero WoAlertListRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorAlerts\WoAlertList\WoAlertListRazor.cs*@
+    @*WoWSB por el generador a día 5-10-2023*@
+    @*Formulario Alertas*@
+    <WoFormAlert SetStatus="@SetStatusAlerts" RemoveAlertEvc="_modelControls.Alertas.RemoverAlerta" @ref="@_alerts" />
+
+
+<h5>@Localizer["TiposDeEmpleados"]</h5>
+    @*List*@
+    <WoListToolbar TApp="App"
+                   OnRedirectEvc="@TipoDeEmpleadoListGrid_RedirectTo"
+                   ShowRedirectionButton="@false">
+        <ItemsFragment>
+
+            <WoSimpleToolbarItem TApp="App"
+                                 Icon="eBoostrapIcons.pluscircle"
+                                 Text="Nuevo"
+                                 OnClickEvc="@_scriptsUser.BtnNew_OnClick" />
+
+
+            <WoSimpleToolbarItem TApp="App"
+                                 Icon="eBoostrapIcons.boxarrowupleft"
+                                 Text="Editar"
+                                 OnClickEvc="@_scriptsUser.BtnEdit_OnClick" />
+
+
+            <WoSimpleToolbarItem TApp="App"
+                                 Icon="eBoostrapIcons.clipboardplus"
+                                 Text="CopyToNew"
+                                 OnClickEvc="@_scriptsUser.BtnCopyToNew_OnClick" />
+
+
+        </ItemsFragment>
+    </WoListToolbar>
+    <hr/>
+
+    <WoODataGrid TData="TipoDeEmpleado"
+                 TApp="App"
+                 CheckSelectionColumnEnabled="@true"
+                 ShowColumnChooser="@true"
+                 IdProperty="@nameof(_scriptsUser.TipoDeEmpleado.Id)"
+                 SelectedItemsChangedEvc="@_scriptsUser.SelectedTipoDeEmpleadoItemsChanged"
+                 SelectedrowChangedEvc="@_scriptsUser.OnSelectedRowChanged"
+                 ColumnsCol="@_TipoDeEmpleadoListGridColumns"
+                 CellNavigationEvc="@TipoDeEmpleadoListGrid_CellNavigation"
+                 SetAlertEvc="@TipoDeEmpleadoListGrid_SetGridAlert"
+                 @ref="@_TipoDeEmpleadoListGridListGrid"/>
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+[{"ButtonId":"BtnNew","Label":"Nuevo","MaskText":"Nuevo","MethodName":"BtnNew","Icon":1018,"Index":1},{"ButtonId":"BtnEdit","Label":"Editar","MaskText":"Editar","MethodName":"BtnEdit","Icon":197,"Index":2},{"ButtonId":"BtnCopyToNew","Label":"CopyToNew","MaskText":"Copiar a nuevo","MethodName":"BtnCopyToNew","Icon":399,"Index":3}]

@@ -1,0 +1,715 @@
+@*///------------------------------------------------------------------------------------------------------------------
+/// Código autogenerado por la template WoTemplateGenericClass en el path WooW.SB\WooW.SB\BlazorGenerator\BlazorTemplates\CommonTemplates\Pages\WoTemplateLayoutRazorBlazor.tt
+/// Genera código consistente con la version de la prueba de concepto a dia 05-10-2023 En Blazor Wasm y Server
+/// Este código es auto generado y su modificación puede causar que el código no se comporte como deveria ademas de
+/// que se perderan los cambios realizados en el código al momento de la generación.
+///------------------------------------------------------------------------------------------------------------------*@
+
+@*Url de acceso*@
+@page "/SYS/Catalog/Empleado"
+@page "/Index"
+
+
+@*Atributo de autorizacion (solo se puede accesar si esta autenticado)*@
+@attribute [Authorize]  
+
+@*Herencia de la clase base de componentes (Permite gestionar la autenticacion y el cliente)*@
+@inherits AWoComponentBase
+
+@*Injeccion de la dependencia del localizer (recuperacion de etiquetas y formatos en funcion de la cultura)*@
+@inject IStringLocalizer<App> Localizer
+<h5>@Localizer["Empleados"]</h5>
+
+
+
+@*Este código fue generado por el fichero WoFormRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorContainers\WoForm\WoFormRazor.cs*@
+@*WoWSB por el generador a día 5-10-2023*@
+@*Formulario Root*@
+<WoForm SetStatus="@SetStatusWfRoot" @ref="@_wfRoot">
+
+
+    @*Este código fue generado por el fichero WoAlertListRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorAlerts\WoAlertList\WoAlertListRazor.cs*@
+    @*WoWSB por el generador a día 5-10-2023*@
+    @*Formulario Alertas*@
+    <WoFormItem ColSpan="12" BeginRow="true">
+        <TemplateFragment>
+             <WoFormAlert SetStatus="@SetStatusAlerts" RemoveAlertEvc="_modelControls.Alertas.RemoverAlerta" @ref="@_alerts" />
+        </TemplateFragment>
+    </WoFormItem>
+
+
+
+    @*Este código fue generado por el fichero WoFormToolbarRazor.cs *@
+
+    @*Toolbar de navegación y transiciones*@
+    <WoFormToolbar Id="Controles"
+                   TApp="App"
+                   SetStatus="@SetStatusControles"
+                   OnFirstClick="@First_OnClick"
+                   OnPriorClick="@Prior_OnClick"
+                   OnNextClick="@Next_OnClick"
+                   OnLastClick="@Last_OnClick"
+                   Value="@_currentTransition"
+                   OnTransitionChangeEvc="@(newValue => ControlesTransition_OnChange(newValue))"
+                   TransitionsCol="@_transitionsCol"
+                   ExecuteOnClickEvc="@ControlesExecute_OnClick"
+                   CancelOnClickEvc="@ControlesCancel_OnClick"
+                     DeleteOnClickEvc="@ControlesDelete_OnClick"
+                   IsCatalog="@true"
+                   SendAlertEvc="@SendTransitionAlert"
+                   ShowRedirectButton="@true"
+                   ListUrl="SYS/List/Empleado"
+                   @ref="_ftbControles">
+        <ItemsFragment>
+
+            <WoShareButton Id="btnControles" Url="@(NavigationManager.Uri)" ParameterCol="@(new List<WoShareParameter>()
+                {
+                    new WoShareParameter {Name = "Id", Value = _scriptsUser.Empleado.Id}
+                })"
+                TApp="App"
+                SetStatus="@SetStatusWsbCopiar"
+                @ref="_wsbCopiar" />
+
+
+            <WoSimpleToolbarItem TApp="App"
+                Id="btnCustomEjercicio41"
+                Icon="eBoostrapIcons.skipend"
+                Text="ContarDivorciados"
+                OnClickEvc="@_scriptsUser.btnCustomEjercicio41_OnClick"/>
+
+
+
+            </ItemsFragment>
+
+        </WoFormToolbar>
+        <div class="dxbl-fl-row-break" style="height:1px"></div>
+
+
+    
+    @*Este código fue generado por el fichero WoFormTabsRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorContainers\WoFormTabs\WoFormTabsRazor.cs.*@
+    @*WoWSB por el generador a día 5-10-2023*@
+    @*Grupo de tabs*@
+    <WoFormTabs ColSpan=6 BeginRow="true">
+
+
+        
+        @*Este código fue generado por el fichero WoFormTabRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorContainers\WoFormTab\WoFormTabRazor.cs*@
+        @*WoWSB por el generador a día 5-10-2023*@
+        @*Tab de las propiedades del modelo*@
+        <WoFormTab 
+                   Id="tabformFormModel"
+                   Caption="@Localizer["Datos"]" 
+                   SetStatus="@SetStatusWftformFormModel" 
+                   Icon="@eBoostrapIcons.None"
+                   @ref="@_wftformFormModel">
+
+
+            @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*Id*@
+            <WoFormItem ColSpan="5"
+                        BeginRow="true"
+                        Caption="@Localizer["Id"]"
+                        SetStatus="@SetStatusFliId"
+                        @ref="@_fliId">
+                <TemplateFragment>
+
+                    <WoTextEdit Id="txtId"
+                                TApp="App"
+                                Value="@_scriptsUser.Empleado.Id"
+                                IsRequired=@true
+                                Length="12"
+                                Password="@false"
+                                PlaceHolder=""
+                                SetStatus="@SetStatusTxtId"
+                                ValueChangedEvc="@Id_OnChange"
+                                OnFocusEvc="@_scriptsUser.Id_OnFocus"
+                                OnBlurEvc="@_scriptsUser.Id_OnBlur"
+                                @ref="@_txtId" />
+
+
+                    <WoInputAlert SetStatus="@SetStatusWiaId" @ref="@_wiaId" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*Nombre*@
+            <WoFormItem ColSpan="12"
+                        BeginRow="true"
+                        Caption="@Localizer["Nombre"]"
+                        SetStatus="@SetStatusFliNombre"
+                        @ref="@_fliNombre">
+                <TemplateFragment>
+
+                    <WoTextEdit Id="txtNombre"
+                                TApp="App"
+                                Value="@_scriptsUser.Empleado.Nombre"
+                                IsRequired=@true
+                                Length="100"
+                                Password="@false"
+                                PlaceHolder=""
+                                SetStatus="@SetStatusTxtNombre"
+                                ValueChangedEvc="@Nombre_OnChange"
+                                OnFocusEvc="@_scriptsUser.Nombre_OnFocus"
+                                OnBlurEvc="@_scriptsUser.Nombre_OnBlur"
+                                @ref="@_txtNombre" />
+
+
+                    <WoInputAlert SetStatus="@SetStatusWiaNombre" @ref="@_wiaNombre" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoDateEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoDateEdit\WoDateEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*FechaDeNacimiento*@
+            <WoFormItem ColSpan="12"
+                        BeginRow="true"
+                        Caption="@Localizer["FechaDeNacimiento"]"
+                        SetStatus="@SetStatusFliFechaDeNacimiento"
+                        @ref="@_fliFechaDeNacimiento">
+                <TemplateFragment>
+
+                    <WoDateEdit Id="dteFechaDeNacimiento"
+                                TApp="App"
+                                TValue="DateTime"
+                                Value="@_scriptsUser.Empleado.FechaDeNacimiento"
+                                IsRequired=@true
+                                PlaceHolder=""
+                                SetStatus="@SetStatusDteFechaDeNacimiento"
+                                ValueChangedEvc="@FechaDeNacimiento_OnChange"
+                                OnFocusEvc="@_scriptsUser.FechaDeNacimiento_OnFocus"
+                                OnBlurEvc="@_scriptsUser.FechaDeNacimiento_OnBlur"
+                                @ref="@_dteFechaDeNacimiento" />
+
+             <WoInputAlert SetStatus="@SetStatusWiaFechaDeNacimiento" @ref="@_wiaFechaDeNacimiento" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoComboEnumEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoComboEnumEdit\WoComboEnumEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*EstadoCivil*@
+            <WoFormItem ColSpan="6"
+                        BeginRow="true"
+                        Caption="@Localizer["EstadoCivil"]"
+                        SetStatus="@SetStatusFliEstadoCivil"
+                        @ref="@_fliEstadoCivil">
+                <TemplateFragment>
+
+                    <WoComboEnumEdit Id="cmbEstadoCivil"
+                                     TApp="App"
+                                     TEnum="eEmpleado_EstadoCivil"
+                                     Value="@_scriptsUser.Empleado.EstadoCivil"
+                                     IsRequired=@true
+                                     PlaceHolder=""
+                                     SetStatus="@SetStatusCmbEstadoCivil"
+                                     ValueChangedEvc="@EstadoCivil_OnChange"
+                                     OnFocusEvc="@_scriptsUser.EstadoCivil_OnFocus"
+                                     OnBlurEvc="@_scriptsUser.EstadoCivil_OnBlur"
+                                     @ref="@_cmbEstadoCivil" />
+
+                    <WoInputAlert SetStatus="@SetStatusWiaEstadoCivil" @ref="@_wiaEstadoCivil" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoMaskedEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoMaskedEdit\WoMaskedEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*Salario*@
+            <WoFormItem ColSpan="6"
+                        BeginRow="false"
+                        Caption="@Localizer["Salario"]"
+                        SetStatus="@SetStatusFliSalario"
+                        @ref="@_fliSalario">
+                <TemplateFragment>
+                    <WoMaskedEdit Id="mkdSalario"
+                       TApp="App"
+              Value="@_scriptsUser.Empleado.Salario"
+                       TValue="Decimal"
+                       Mask="@NumericMask.Currency"
+                       IsRequired=@true
+                       PlaceHolder=""
+                       Length="24"
+                       SetStatus="@SetStatusMkdSalario"
+                       ValueChangedEvc="@Salario_OnChange"
+                       OnFocusEvc="@_scriptsUser.Salario_OnFocus"
+                       OnBlurEvc="@_scriptsUser.Salario_OnBlur"
+                       @ref="@_mkdSalario" />
+
+
+                    <WoInputAlert SetStatus="@SetStatusWiaSalario" @ref="@_wiaSalario" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoMaskedEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoMaskedEdit\WoMaskedEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*Correo*@
+            <WoFormItem ColSpan="12"
+                        BeginRow="true"
+                        Caption="@Localizer["Correo"]"
+                        SetStatus="@SetStatusFliCorreo"
+                        @ref="@_fliCorreo">
+                <TemplateFragment>
+                    <WoMaskedEdit Id="mkdCorreo"
+                       TApp="App"
+              Value="@_scriptsUser.Empleado.Correo"
+                       TValue="string"
+                       IsRequired=@true
+                       PlaceHolder=""
+                       Length="100"
+                       SetStatus="@SetStatusMkdCorreo"
+                       ValueChangedEvc="@Correo_OnChange"
+                       OnFocusEvc="@_scriptsUser.Correo_OnFocus"
+                       OnBlurEvc="@_scriptsUser.Correo_OnBlur"
+                       @ref="@_mkdCorreo" />
+
+
+                    <WoInputAlert SetStatus="@SetStatusWiaCorreo" @ref="@_wiaCorreo" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoMaskedEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoMaskedEdit\WoMaskedEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*Telefono*@
+            <WoFormItem ColSpan="12"
+                        BeginRow="true"
+                        Caption="@Localizer["Telefono"]"
+                        SetStatus="@SetStatusFliTelefono"
+                        @ref="@_fliTelefono">
+                <TemplateFragment>
+                    <WoMaskedEdit Id="mkdTelefono"
+                       TApp="App"
+              Value="@_scriptsUser.Empleado.Telefono"
+                       TValue="string"
+                       Mask="(000) 000-0000"
+                       IsRequired=@true
+                       PlaceHolder=""
+                       Length="15"
+                       SetStatus="@SetStatusMkdTelefono"
+                       ValueChangedEvc="@Telefono_OnChange"
+                       OnFocusEvc="@_scriptsUser.Telefono_OnFocus"
+                       OnBlurEvc="@_scriptsUser.Telefono_OnBlur"
+                       @ref="@_mkdTelefono" />
+
+
+                    <WoInputAlert SetStatus="@SetStatusWiaTelefono" @ref="@_wiaTelefono" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+            @*Este código fue generado por el fichero WoLookUpEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoLookUpDialogEdit\WoLookUpEditRazor.cs.*@
+            @*WoWSB por el generador a día 5-10-2023*@
+
+            @*TipoDeEmpleadoId*@
+            <WoFormItem ColSpan="12"
+                        BeginRow="true"
+                        Caption="@Localizer["TipoDeEmpleado"]"
+                        SetStatus="@SetStatusFliTipoDeEmpleadoId"
+                        @ref="@_fliTipoDeEmpleadoId">
+                <TemplateFragment>
+
+                    <WoLookupEdit Id="lkpTipoDeEmpleadoId"
+                                  TMetaAttribute="WoColumnMetaAttribute"
+                                  TModelAttribute="WoLabelModelAttribute"
+                                  TModel="TipoDeEmpleado"
+                                  TApp="App"
+                                  PlaceHolder=""
+                                  ColumnsCol="@_lkpTipoDeEmpleadoColumnsCol"
+                                  IdValue="@_scriptsUser.Empleado.TipoDeEmpleadoId"
+                                  DescriptionValue="@_scriptsUser.Empleado.__TipoDeEmpleadoId"
+                                  DataCol="@_TipoDeEmpleadoCol"
+                                  FormRoute="/SYS/CatalogType/TipoDeEmpleado"
+                                  OnOpenEvc="@TipoDeEmpleadoId_UpdateData"
+                                  SetStatus="@SetStatusLkpTipoDeEmpleadoId"
+                                  OnFocusEvc="@_scriptsUser.TipoDeEmpleadoId_OnFocus"
+                                  OnBlurEvc="@_scriptsUser.TipoDeEmpleadoId_OnBlur"
+                                  OnChangeEvc="@TipoDeEmpleadoId_OnChange"
+                                  IsRequired=@true
+                                  InputWidth="eLookupInputWidth.medium"
+                                  @ref="@_lkpTipoDeEmpleadoId"/>
+
+                    <WoInputAlert SetStatus="@SetStatusWiaTipoDeEmpleadoId" @ref="@_wiaTipoDeEmpleadoId" />
+
+               </TemplateFragment>
+            </WoFormItem>
+
+
+        </WoFormTab>
+
+
+
+            
+            @*Este código fue generado por el fichero WoFormTabRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorContainers\WoFormTab\WoFormTabRazor.cs*@
+            @*WoWSB por el generador a día 5-10-2023*@
+            @*Tab de las propiedades del modelo*@
+            <WoFormTab 
+                       Id="tabformControlform"
+                       Caption="@Localizer["Status"]" 
+                       SetStatus="@SetStatusWftformControlform" 
+                       Icon="@eBoostrapIcons.None"
+                       @ref="@_wftformControlform">
+
+
+                @*Este código fue generado por el fichero WoComboEnumEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoComboEnumEdit\WoComboEnumEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*WoState*@
+                <WoFormItem ColSpan="12"
+                            BeginRow="true"
+                            Caption="@Localizer["State"]"
+                            SetStatus="@SetStatusFliWoState"
+                            @ref="@_fliWoState">
+                    <TemplateFragment>
+
+                        <WoComboEnumEdit Id="cmbWoState"
+                                         TApp="App"
+                                         TEnum="eEmpleado_WoState"
+                                         Value="@_scriptsUser.Empleado.WoState"
+                                         IsRequired=@true
+                                         PlaceHolder=""
+                                         SetStatus="@SetStatusCmbWoState"
+                                         ValueChangedEvc="@WoState_OnChange"
+                                         OnFocusEvc="@_scriptsUser.WoState_OnFocus"
+                                         OnBlurEvc="@_scriptsUser.WoState_OnBlur"
+                                         @ref="@_cmbWoState" />
+
+                        <WoInputAlert SetStatus="@SetStatusWiaWoState" @ref="@_wiaWoState" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoDateEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoDateEdit\WoDateEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*CreatedDate*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="true"
+                            Caption="@Localizer["FechaDeCreacion"]"
+                            SetStatus="@SetStatusFliCreatedDate"
+                            @ref="@_fliCreatedDate">
+                    <TemplateFragment>
+
+                        <WoDateEdit Id="dteCreatedDate"
+                                    TApp="App"
+                                    TValue="DateTime"
+                                    Value="@_scriptsUser.Empleado.CreatedDate"
+                                    IsRequired=@true
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusDteCreatedDate"
+                                    ValueChangedEvc="@CreatedDate_OnChange"
+                                    OnFocusEvc="@_scriptsUser.CreatedDate_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.CreatedDate_OnBlur"
+                                    @ref="@_dteCreatedDate" />
+
+                 <WoInputAlert SetStatus="@SetStatusWiaCreatedDate" @ref="@_wiaCreatedDate" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*CreatedBy*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="false"
+                            Caption="@Localizer["CreadoPor"]"
+                            SetStatus="@SetStatusFliCreatedBy"
+                            @ref="@_fliCreatedBy">
+                    <TemplateFragment>
+
+                        <WoTextEdit Id="txtCreatedBy"
+                                    TApp="App"
+                                    Value="@_scriptsUser.Empleado.CreatedBy"
+                                    IsRequired=@true
+                                    Length="64"
+                                    Password="@false"
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusTxtCreatedBy"
+                                    ValueChangedEvc="@CreatedBy_OnChange"
+                                    OnFocusEvc="@_scriptsUser.CreatedBy_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.CreatedBy_OnBlur"
+                                    @ref="@_txtCreatedBy" />
+
+
+                        <WoInputAlert SetStatus="@SetStatusWiaCreatedBy" @ref="@_wiaCreatedBy" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoDateEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoDateEdit\WoDateEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*ModifiedDate*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="true"
+                            Caption="@Localizer["FechaDeModificacion"]"
+                            SetStatus="@SetStatusFliModifiedDate"
+                            @ref="@_fliModifiedDate">
+                    <TemplateFragment>
+
+                        <WoDateEdit Id="dteModifiedDate"
+                                    TApp="App"
+                                    TValue="DateTime"
+                                    Value="@_scriptsUser.Empleado.ModifiedDate"
+                                    IsRequired=@true
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusDteModifiedDate"
+                                    ValueChangedEvc="@ModifiedDate_OnChange"
+                                    OnFocusEvc="@_scriptsUser.ModifiedDate_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.ModifiedDate_OnBlur"
+                                    @ref="@_dteModifiedDate" />
+
+                 <WoInputAlert SetStatus="@SetStatusWiaModifiedDate" @ref="@_wiaModifiedDate" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*ModifiedBy*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="false"
+                            Caption="@Localizer["ModificadoPor"]"
+                            SetStatus="@SetStatusFliModifiedBy"
+                            @ref="@_fliModifiedBy">
+                    <TemplateFragment>
+
+                        <WoTextEdit Id="txtModifiedBy"
+                                    TApp="App"
+                                    Value="@_scriptsUser.Empleado.ModifiedBy"
+                                    IsRequired=@true
+                                    Length="64"
+                                    Password="@false"
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusTxtModifiedBy"
+                                    ValueChangedEvc="@ModifiedBy_OnChange"
+                                    OnFocusEvc="@_scriptsUser.ModifiedBy_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.ModifiedBy_OnBlur"
+                                    @ref="@_txtModifiedBy" />
+
+
+                        <WoInputAlert SetStatus="@SetStatusWiaModifiedBy" @ref="@_wiaModifiedBy" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoDateEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoDateEdit\WoDateEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*SuspendDate*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="true"
+                            Caption="@Localizer["FechaDeSuspension"]"
+                            SetStatus="@SetStatusFliSuspendDate"
+                            @ref="@_fliSuspendDate">
+                    <TemplateFragment>
+
+                        <WoDateEdit Id="dteSuspendDate"
+                                    TApp="App"
+                                    TValue="DateTime?"
+                                    Value="@_scriptsUser.Empleado.SuspendDate"
+                                    IsRequired=@false
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusDteSuspendDate"
+                                    ValueChangedEvc="@SuspendDate_OnChange"
+                                    OnFocusEvc="@_scriptsUser.SuspendDate_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.SuspendDate_OnBlur"
+                                    @ref="@_dteSuspendDate" />
+
+                 <WoInputAlert SetStatus="@SetStatusWiaSuspendDate" @ref="@_wiaSuspendDate" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*SuspendBy*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="false"
+                            Caption="@Localizer["SuspendidoPor"]"
+                            SetStatus="@SetStatusFliSuspendBy"
+                            @ref="@_fliSuspendBy">
+                    <TemplateFragment>
+
+                        <WoTextEdit Id="txtSuspendBy"
+                                    TApp="App"
+                                    Value="@_scriptsUser.Empleado.SuspendBy"
+                                    IsRequired=@false
+                                    Length="64"
+                                    Password="@false"
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusTxtSuspendBy"
+                                    ValueChangedEvc="@SuspendBy_OnChange"
+                                    OnFocusEvc="@_scriptsUser.SuspendBy_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.SuspendBy_OnBlur"
+                                    @ref="@_txtSuspendBy" />
+
+
+                        <WoInputAlert SetStatus="@SetStatusWiaSuspendBy" @ref="@_wiaSuspendBy" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*SuspendInfo*@
+                <WoFormItem ColSpan="12"
+                            BeginRow="true"
+                            Caption="@Localizer["CausaDeSuspension"]"
+                            SetStatus="@SetStatusFliSuspendInfo"
+                            @ref="@_fliSuspendInfo">
+                    <TemplateFragment>
+
+                        <WoTextEdit Id="txtSuspendInfo"
+                                    TApp="App"
+                                    Value="@_scriptsUser.Empleado.SuspendInfo"
+                                    IsRequired=@false
+                                    Length="256"
+                                    Password="@false"
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusTxtSuspendInfo"
+                                    ValueChangedEvc="@SuspendInfo_OnChange"
+                                    OnFocusEvc="@_scriptsUser.SuspendInfo_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.SuspendInfo_OnBlur"
+                                    @ref="@_txtSuspendInfo" />
+
+
+                        <WoInputAlert SetStatus="@SetStatusWiaSuspendInfo" @ref="@_wiaSuspendInfo" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoDateEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoDateEdit\WoDateEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*DeletedDate*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="true"
+                            Caption="@Localizer["FechaDeBorrado"]"
+                            SetStatus="@SetStatusFliDeletedDate"
+                            @ref="@_fliDeletedDate">
+                    <TemplateFragment>
+
+                        <WoDateEdit Id="dteDeletedDate"
+                                    TApp="App"
+                                    TValue="DateTime?"
+                                    Value="@_scriptsUser.Empleado.DeletedDate"
+                                    IsRequired=@false
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusDteDeletedDate"
+                                    ValueChangedEvc="@DeletedDate_OnChange"
+                                    OnFocusEvc="@_scriptsUser.DeletedDate_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.DeletedDate_OnBlur"
+                                    @ref="@_dteDeletedDate" />
+
+                 <WoInputAlert SetStatus="@SetStatusWiaDeletedDate" @ref="@_wiaDeletedDate" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*DeletedBy*@
+                <WoFormItem ColSpan="6"
+                            BeginRow="false"
+                            Caption="@Localizer["BorradoPor"]"
+                            SetStatus="@SetStatusFliDeletedBy"
+                            @ref="@_fliDeletedBy">
+                    <TemplateFragment>
+
+                        <WoTextEdit Id="txtDeletedBy"
+                                    TApp="App"
+                                    Value="@_scriptsUser.Empleado.DeletedBy"
+                                    IsRequired=@false
+                                    Length="64"
+                                    Password="@false"
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusTxtDeletedBy"
+                                    ValueChangedEvc="@DeletedBy_OnChange"
+                                    OnFocusEvc="@_scriptsUser.DeletedBy_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.DeletedBy_OnBlur"
+                                    @ref="@_txtDeletedBy" />
+
+
+                        <WoInputAlert SetStatus="@SetStatusWiaDeletedBy" @ref="@_wiaDeletedBy" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+                @*Este código fue generado por el fichero WoTextEditRazor.cs en el Path: WooW.SB\BlazorGenerator\BlazorComponents\BlazorInputs\WoTextEdit\WoTextEditRazor.cs.*@
+                @*WoWSB por el generador a día 5-10-2023*@
+
+                @*DeleteInfo*@
+                <WoFormItem ColSpan="12"
+                            BeginRow="true"
+                            Caption="@Localizer["CausaDeBorrado"]"
+                            SetStatus="@SetStatusFliDeleteInfo"
+                            @ref="@_fliDeleteInfo">
+                    <TemplateFragment>
+
+                        <WoTextEdit Id="txtDeleteInfo"
+                                    TApp="App"
+                                    Value="@_scriptsUser.Empleado.DeleteInfo"
+                                    IsRequired=@false
+                                    Length="256"
+                                    Password="@false"
+                                    PlaceHolder=""
+                                    SetStatus="@SetStatusTxtDeleteInfo"
+                                    ValueChangedEvc="@DeleteInfo_OnChange"
+                                    OnFocusEvc="@_scriptsUser.DeleteInfo_OnFocus"
+                                    OnBlurEvc="@_scriptsUser.DeleteInfo_OnBlur"
+                                    @ref="@_txtDeleteInfo" />
+
+
+                        <WoInputAlert SetStatus="@SetStatusWiaDeleteInfo" @ref="@_wiaDeleteInfo" />
+
+                   </TemplateFragment>
+                </WoFormItem>
+
+
+            </WoFormTab>
+
+
+
+    </WoFormTabs>
+
+
+
+</WoForm>
+
+
+
+
